@@ -29,7 +29,6 @@ export default function FormComponent(props) {
   };
   
   const handleValidation = (e) => {
-    console.log(e);
     e.target.value.length > 5 ? setIsError(false) : setIsError(true);
   };
 
