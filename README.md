@@ -16,7 +16,7 @@ This will start the development server on port 3000.
 **Note: The JSON server should also be running on port 3100.** You can start it by running the following command:
 
 ```
-json-server --watch db.json --port 3100
+json-server --watch data/db.json --port 3100
 ```
 
 ### Features
