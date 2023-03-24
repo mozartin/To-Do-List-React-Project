@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap");
+
+* {
+  font-family: "Edu NSW ACT Foundation", cursive;
+}
+
+.content {
+  text-align: center;
+}
+
+.content h1 {
+  font-size: 54px;
+  margin-top: 30px;
+  color: #f6f2f6;
+}
+
+.second-header {
+  color: #f6f2f6;
+}
+
+.my-form {
+  text-align: left;
+  font-size: 30px;
+}
+
+.sbmit-btn {
+  border: none !important;
+  background-color: #e1ff00 !important;
+  transition: 0.5s;
+  color: #383d44 !important;
+}
+
+.sbmit-btn:hover {
+  color: #e1ff00 !important;
+  background-color: #383d44 !important;
+}
+
+.form-control {
+  transition: 0.5s;
+}
+
+.form-control:focus,
+.form-check-input:focus {
+  border-color: #e1ff00 !important;
+  box-shadow: 0 0 0 0.1rem #e1ff00 !important;
+}
+
+.delete-icon {
+  border: none !important;
+  color: #8e0707b5 !important;
+  transition: 0.5s;
+}
+
+.delete-icon:hover {
+  cursor: pointer;
+  color: #8e0707 !important;
+}
+
+.form-check-input:checked {
+  background-color: #383d44 !important;
+  border-color: #2e958c00 !important;
+}
+
+.form-check-input:checked:hover {
+  background-color: #e1ff00 !important;
+}
+
+.form-check-input:hover {
+  background-color: #e1ff00 !important;
+}
+
+.list-group {
+  --bs-list-group-active-bg: #6d7a8f;
+  --bs-list-group-active-border-color: #8e96a2;
+}
+
+.feedback {
+  color: #ffbcbc !important;
+}

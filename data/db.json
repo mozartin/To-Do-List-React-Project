@@ -1,0 +1,79 @@
+{
+  "todo": [
+    {
+      "value": "Buy milk from the grocery store.",
+      "done": true,
+      "id": 33
+    },
+    {
+      "value": "Call the dentist to schedule a cleaning appointment.",
+      "done": true,
+      "id": 34
+    },
+    {
+      "value": "Take out the trash before leaving the house.",
+      "done": true,
+      "id": 35
+    },
+    {
+      "value": "Water the plants in the garden.",
+      "done": true,
+      "id": 36
+    },
+    {
+      "value": "Send a birthday card to your friend.'",
+      "done": true,
+      "id": 37
+    },
+    {
+      "value": "Read 10 pages of a book before going to bed.",
+      "done": false,
+      "id": 38
+    },
+    {
+      "value": "Write a gratitude journal entry for the day.",
+      "done": false,
+      "id": 39
+    },
+    {
+      "value": "Meditate for 10 minutes in the morning.",
+      "done": false,
+      "id": 40
+    },
+    {
+      "value": "Go for a 15-minute walk around the block.",
+      "done": false,
+      "id": 41
+    },
+    {
+      "value": "Declutter your desk by organizing papers and supplies.",
+      "done": false,
+      "id": 42
+    },
+    {
+      "value": "Make a grocery list for the upcoming week.",
+      "done": true,
+      "id": 43
+    },
+    {
+      "value": "Clean out your email inbox and respond to important messages.",
+      "done": true,
+      "id": 44
+    },
+    {
+      "value": "Do a load of laundry and fold clothes.",
+      "done": true,
+      "id": 45
+    },
+    {
+      "value": "Prepare a healthy lunch for tomorrow.",
+      "done": false,
+      "id": 46
+    },
+    {
+      "value": "Write a letter or email to someone you haven't talked to in a while.",
+      "done": false,
+      "id": 47
+    }
+  ]
+}
