@@ -32,8 +32,11 @@ The To-Do List application has the following features:
 The To-Do List application was built using the following technologies:
 
 React
+
 React Bootstrap
+
 Fetch API
+
 JSON-Server
 
 ## Author
